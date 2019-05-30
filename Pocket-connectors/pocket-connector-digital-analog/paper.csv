@@ -1,0 +1,19 @@
+"Source:","/Users/admin/Documents/BELA_stuff/IUK2019-Makers/Hardware/pocket-connector-digital-analog/paper.sch"
+"Date:","Thursday, 30 May 2019 at 15:32:35"
+"Tool:","Eeschema (5.0.0-3-g0214c9d)"
+"Generator:","/Applications/KiCad/kicad.app/Contents/SharedSupport/plugins/bom_csv_grouped_by_value.py"
+"Component Count:","2"
+
+"Individual Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
+"","","J1","Conn_01x04_Female","Connector:Conn_01x04_Female","Connectors_JST:JST_PH_S4B-PH-K_04x2.00mm_Angled","~"
+"","","J2","Conn_01x04_Female","Connector:Conn_01x04_Female","paper:paper2equal","~"
+
+
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
+"1","1","J1","Conn_01x04_Female","Connector:Conn_01x04_Female","Connectors_JST:JST_PH_S4B-PH-K_04x2.00mm_Angled","~"
+"2","1","J2","Conn_01x04_Female","Connector:Conn_01x04_Female","paper:paper2equal","~"

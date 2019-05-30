@@ -1,0 +1,28 @@
+Component Count:,14,,,,,
+Individual Components:,,,,,,
+Item,Qty,Reference(s),Value,Brand,Part number,Link
+,,J1,M10SILK_FEMALE_PTH,TE Connectivity,1-826648-0,https://uk.rs-online.com/web/p/pcb-headers/7189967/
+,,J2,Conn_01x02,~,~,~
+,,J3,Conn_01x02_Female,JST,S2B-PH-SM4-TB(LF)(SN),https://uk.rs-online.com/web/p/pcb-headers/6881353/?relevancy-data=636F3D3126696E3D4931384E525353746F636B4E756D626572266C753D656E266D6D3D6D61746368616C6C26706D3D5E2828282872737C5253295B205D3F293F285C647B337D5B5C2D5C735D3F5C647B332C347D5B705061415D3F29297C283235285C647B387D7C5C647B317D5C2D5C647B377D2929292426706F3D3126736E3D592673723D2673743D52535F53544F434B5F4E554D4245522677633D4E4F4E45267573743D3638382D31333533267374613D3638383133353326&searchHistory=%7B%22enabled%22%3Atrue%7D
+,,J4,Grove_4x2mm,Seeed Studio,110990037,https://uk.rs-online.com/web/p/semiconductor-development-kit-accessories/1793715/
+,,J5,Connector_4x2mm,~,~,~
+,,J6,Connector_4x2mm,~,~,~
+,,J7,Connector_4x2mm,~,~,~
+,,J8,Connector_4x2mm,~,~,~
+,,J9,Connector_4x2mm,~,~,~
+,,J10,Connector_4x2mm,~,~,~
+,,P1,PINHD-2X18,Molex,90131-0138,https://uk.rs-online.com/web/p/pcb-headers/6703487/
+,,P2,PINHD-2X18,Molex,90131-0138,https://uk.rs-online.com/web/p/pcb-headers/6703487/
+,,R1,10K,RS PRO,804-6528,https://uk.rs-online.com/web/p/surface-mount-fixed-resistors/8046528/
+,,SW1,SW_Push_Dual,C & K,Y28B22112FPV10,https://uk.rs-online.com/web/p/tactile-switches/1769558/?sra=pstk
+,,,,,,
+Collated Components:,,,,,,
+Item,Qty,Reference(s),Value,Brand,Part number,Link
+1,1,J1,M10SILK_FEMALE_PTH,TE Connectivity,1-826648-0,https://uk.rs-online.com/web/p/pcb-headers/7189967/
+2,1,J2,Conn_01x02,~,~,~
+3,1,J3,Conn_01x02_Female,JST,S2B-PH-SM4-TB(LF)(SN),https://uk.rs-online.com/web/p/pcb-headers/6881353/?relevancy-data=636F3D3126696E3D4931384E525353746F636B4E756D626572266C753D656E266D6D3D6D61746368616C6C26706D3D5E2828282872737C5253295B205D3F293F285C647B337D5B5C2D5C735D3F5C647B332C347D5B705061415D3F29297C283235285C647B387D7C5C647B317D5C2D5C647B377D2929292426706F3D3126736E3D592673723D2673743D52535F53544F434B5F4E554D4245522677633D4E4F4E45267573743D3638382D31333533267374613D3638383133353326&searchHistory=%7B%22enabled%22%3Atrue%7D
+4,1,J4,Grove_4x2mm,Seeed Studio,110990037,https://uk.rs-online.com/web/p/semiconductor-development-kit-accessories/1793715/
+5,6,"J5, J6, J7, J8, J9, J10",Connector_4x2mm,~,~,~
+6,2,"P1, P2",PINHD-2X18,Molex,90131-0138,https://uk.rs-online.com/web/p/pcb-headers/6703487/
+7,1,R1,10K,RS PRO,804-6528,https://uk.rs-online.com/web/p/surface-mount-fixed-resistors/8046528/
+8,1,SW1,SW_Push_Dual,C & K,Y28B22112FPV10,https://uk.rs-online.com/web/p/tactile-switches/1769558/?sra=pstk

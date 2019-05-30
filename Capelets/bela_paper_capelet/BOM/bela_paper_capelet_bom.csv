@@ -1,0 +1,18 @@
+Component Count:,9,,,,,
+Individual Components:,,,,,,
+Item,Qty,Reference(s),Value,Brand,Part number,Link
+,,J1,Grove_4x2mm,Seeed Studio,110990037,https://uk.rs-online.com/web/p/semiconductor-development-kit-accessories/1793715/
+,,J2,Grove_4x2mm,Seeed Studio,110990037,https://uk.rs-online.com/web/p/semiconductor-development-kit-accessories/1793715/
+,,J3,Grove_4x2mm,Seeed Studio,110990037,https://uk.rs-online.com/web/p/semiconductor-development-kit-accessories/1793715/
+,,J4,M10SILK_FEMALE_PTH,TE Connectivity,1-826648-0,https://uk.rs-online.com/web/p/pcb-headers/7189967/
+,,J5,Grove_4x2mm,Seeed Studio,110990037,https://uk.rs-online.com/web/p/semiconductor-development-kit-accessories/1793715/
+,,J6,Grove_4x2mm,Seeed Studio,110990037,https://uk.rs-online.com/web/p/semiconductor-development-kit-accessories/1793715/
+,,J7,Grove_4x2mm,Seeed Studio,110990037,https://uk.rs-online.com/web/p/semiconductor-development-kit-accessories/1793715/
+,,P1,PINHD-2X18,Molex,90131-0138,https://uk.rs-online.com/web/p/pcb-headers/6703487/
+,,P2,PINHD-2X18,Molex,90131-0138,https://uk.rs-online.com/web/p/pcb-headers/6703487/
+,,,,,,
+Collated Components:,,,,,,
+Item,Qty,Reference(s),Value,,Part number,Link
+1,6,"J1, J2, J3, J5, J6, J7",Grove_4x2mm,Seeed Studio,110990037,https://uk.rs-online.com/web/p/semiconductor-development-kit-accessories/1793715/
+2,1,J4,M10SILK_FEMALE_PTH,TE Connectivity,1-826648-0,https://uk.rs-online.com/web/p/pcb-headers/7189967/
+3,2,"P1, P2",PINHD-2X18,Molex,90131-0138,https://uk.rs-online.com/web/p/pcb-headers/6703487/

@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name molex_test-eagle-import)(type Legacy)(uri /Users/admin/Documents/BELA_stuff/bela-hardware/bela-kicad/molex_test_2/molex_test-eagle-import.lib)(options "")(descr ""))
+  (lib (name belamini_cape_B2-eagle-import)(type Legacy)(uri ${KIPRJMOD}/belamini_cape_B2-eagle-import.lib)(options "")(descr ""))
+  (lib (name ffc-16ffc-16-0.5)(type Legacy)(uri ${KIPRJMOD}/ffc-16ffc-16-0.5.lib)(options "")(descr ""))
+)
